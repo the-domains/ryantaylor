@@ -1,6 +1,6 @@
 name: ryantaylor
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.002515157451853156
 title: Neo Soul Jazz Artist
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#040412'
+    - '#48332c'
+    - '#b41c3c'
+    - '#bf6a5a'
+    - '#ffde9f'
   brandStrength: 1
-  lightness: 0.8752991461660713
-  saturation: 0.4423807698767632
-  rhythmicContrast: 0.25
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
