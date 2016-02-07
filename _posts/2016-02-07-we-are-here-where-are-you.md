@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Official News Feed for Ryan Taylor
-datePublished: '2016-02-07T16:52:57.210Z'
-dateModified: '2016-02-07T16:52:40.599Z'
+datePublished: '2016-02-07T17:04:07.145Z'
+dateModified: '2016-02-07T17:01:14.056Z'
 title: 'We are here, where are you?'
 author: []
+sourcePath: _posts/2016-02-07-we-are-here-where-are-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-we-are-here-where-are-you.md
-published: true
 url: we-are-here-where-are-you/index.html
 _type: Article
 
