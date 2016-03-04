@@ -1,7 +1,7 @@
 name: ryantaylor
 favicon: null
-layout_spectrum: 0.9318997
-typography_spectrum: 0.874552
+layout_spectrum: 0.4615
+typography_spectrum: 0.5552
 title: dsgnr stff
 collections:
   - index:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040011'
-    - '#ffebae'
-    - '#365558'
-    - '#6f162e'
-    - '#ff375d'
-  brandStrength: 0.5
+    - '#eeeeee'
+    - '#000000'
+    - '#5e5e5e'
+    - '#959595'
+    - '#bc3c4b'
+  brandStrength: 0.75
   lightness: 0.4032258
   saturation: 0.5985663
   rhythmicContrast: 0.6433692
